@@ -1,5 +1,5 @@
 
-$pip install yfinance
+pip install yfinance
 
 import datetime
 import pandas as pd
